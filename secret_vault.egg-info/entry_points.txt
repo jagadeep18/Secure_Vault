@@ -1,0 +1,2 @@
+[console_scripts]
+secret_vault = secret_vault:main
